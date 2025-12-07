@@ -1,87 +1,80 @@
-🚀 ClinFix AI – Automated Clinical Data Cleaner & Formatter
-
-
+# 🚀 **ClinFix AI – Automated Clinical Data Cleaner & Formatter**
 
 <p align="center">
   <a href="https://huggingface.co/spaces/Mukulgurve/clinfix_ai">
     <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" alt="Live Demo Button">
   </a>
+</p>
 
-
-ClinFix AI is an intelligent web-based tool designed to clean, organize, and structure clinical data instantly. Built to support Pharmacovigilance (PV), Clinical Research, and Safety Associate workflows, this tool saves hours of manual effort by transforming messy case data into a clean, analysis-ready format.
-
+ClinFix AI is an intelligent, web-based tool designed to **clean, organize, and structure clinical data instantly**.  
+Built for **Pharmacovigilance (PV)**, **Clinical Research**, and **Safety Associate** workflows, it saves hours of manual effort by transforming messy case data into a **clean, analysis-ready format**.
 
 ---
 
-🔍 What ClinFix AI Does
+## 🔍 **What ClinFix AI Does**
 
 ClinFix AI helps you:
-✨ Clean raw clinical case data
-✨ Automatically split text into columns
-✨ Extract important fields
-✨ Standardize terminology
-✨ Generate ready-to-use Excel/CSV outputs
-✨ Preview cleaned data instantly
 
-
-
----
-
-🧠 How It Works
-
-ClinFix AI uses advanced machine learning and NLP models to:
-🔹 Detect patterns in unstructured medical text
-🔹 Identify case details (age, gender, drug, event, dates, etc.)
-🔹 Fix formatting issues
-🔹 Convert unorganized text into structured columns
-🔹 Provide downloadable datasets
-
-
-Workflow:
-1. Paste your raw case text
-2. Click Process
-3. Receive cleaned, formatted, structured case data
-
-
-
+✨ **Clean raw clinical case data**  
+✨ **Automatically split text into columns**  
+✨ **Extract important medical fields**  
+✨ **Standardize terminology**  
+✨ **Generate Excel/CSV outputs instantly**  
+✨ **Preview cleaned data before downloading**  
 
 ---
 
-🎯 Why ClinFix AI is Useful
+## 🧠 **How It Works**
 
-⚡ Speeds up clinical case processing
-⚡ Reduces manual QC workload
-⚡ Improves data accuracy
-⚡ Helps entry-level PV/CR candidates stand out
+ClinFix AI uses advanced **Machine Learning** and **NLP models** to:
 
-⚡ Makes a strong portfolio project
+🔹 **Detect patterns** in unstructured medical text  
+🔹 **Identify case details** (age, gender, drug, event, dates, etc.)  
+🔹 **Fix formatting issues & inconsistencies**  
+🔹 **Convert unorganized text into structured tables**  
+🔹 **Provide downloadable cleaned datasets**
 
-
-
----
-
-🛠️ Tech Stack Used
-
-Python 🐍
-Gradio UI 🎛️
-Pandas 📊
-NLP Models 🤖
-Hugging Face Spaces 🚀
+### **Workflow**
+1. Paste your raw case text  
+2. Click **Process**  
+3. Instantly receive **cleaned, formatted, structured** case data  
 
 ---
 
-🔗 Live Demo
-👉 https://huggingface.co/spaces/Mukulgurve/clinfix_ai
+## 🎯 **Why ClinFix AI Is Useful**
 
+⚡ **Speeds up clinical case processing**  
+⚡ **Reduces manual QC workload**  
+⚡ **Improves accuracy of PV/CR documentation**  
+⚡ **Perfect for entry-level candidates to show skills**  
+⚡ **Excellent portfolio project for recruiters**  
 
 ---
 
-🙌 Author
-Mukul Gurve – Passionate about Pharmacovigilance, Clinical Research, and AI in Healthcare Automation.
+## 🛠️ **Tech Stack Used**
+
+🐍 **Python**  
+🎛️ **Gradio UI**  
+📊 **Pandas**  
+🤖 **NLP Models**  
+🚀 **Hugging Face Spaces**  
 
 ---
 
-⭐ Support This Project
-🌟 Star the repository
-💬 Share with your network
-🤝 Suggest improvements
+## 🔗 **Live Demo**
+
+👉 https://huggingface.co/spaces/Mukulgurve/clinfix_ai  
+
+---
+
+## 🙌 **Author**
+
+**Mukul Gurve** – Passionate about **Pharmacovigilance**, **Clinical Research**, and **AI for Healthcare Automation**.
+
+---
+
+## ⭐ **Support This Project**
+
+🌟 **Star the repository**  
+💬 **Share with your network**  
+🤝 **Suggest improvements**
